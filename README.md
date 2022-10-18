@@ -1,7 +1,7 @@
 # Big-Mart-Sales-Prediction
 
 ### Click Below to Read the Project 
-[BigMartSales.html](https://htmlpreview.github.io/?https://github.com/arhamlodha318/ML-LoanPredicition/blob/main/loan%20prediction.html)
+[BigMartSales.html](https://github.com/arhamlodha318/ML-BigMartSales/blob/main/BigMartSales.html)
 
 ###  This competition was organized by analytics vidhya in which my rank is 129 as of now. 
 
